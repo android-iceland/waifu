@@ -18,6 +18,8 @@ run this colab link to generate the waifu api <br>
 ## 3. Text-to-Speech
 Drag and drop the demo.txt file on Microsoft Edge
 later we use PyAutoGUI to automate Microsoft Edge's text-to-speech feature.
+You can change your tts voice <br>
+![Tab Example](https://github.com/android-iceland/waifu/blob/main/choose%20voice.png)
 
 ## 4. Talking Head
 Finally, use VMagicMirror to animate the waifu's face in real-time while it speaks. To do this, download VMagicMirror and set up and calibrate the software.
