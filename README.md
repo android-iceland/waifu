@@ -1,7 +1,7 @@
 # Waifu - Your AI Girlfriend
 
 
-Waifu is an AI girlfriend that can understand your speech, generate answers using BlenderBot API, speak them using Microsoft Edge's text-to-speech feature, and animate a character's face in real-time using VMagicMirror.
+Waifu is an AI girlfriend that can understand your speech, generate answers using BlenderBot API, then speak  using Microsoft Edge's text-to-speech feature, and animate a character's face in real-time using VMagicMirror.
 
 
 # Installing Dependencies
